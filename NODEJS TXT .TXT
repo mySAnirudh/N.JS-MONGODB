@@ -1,0 +1,10 @@
+
+   **** Install MongoDB ****
+
+   1/ Download MongoDB
+   2/ Install MongoDB
+   3/ Set environment for MongoDB
+   4/ Mongodb Compass Tool
+   
+
+   **When you work with nodeJS then it might be you have to work with my sql and Mongodb
